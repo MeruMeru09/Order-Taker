@@ -1,0 +1,49 @@
+Iced Tea - Qty: 1
+Ice Cream - Qty: 1
+Coke - Qty: 1
+Sting - Qty: 1
+Cold Chocolate - Qty: 1
+Turon - Qty: 1
+Lumpiang Shanghai - Qty: 1
+Mentos - Qty: 1
+Leche Flan - Qty: 1
+Coffee - Qty: 1
+Red Velvet Cake - Qty: 1
+Caesar Salad - Qty: 1
+Kani Salad - Qty: 1
+Porkchop - Qty: 1
+Mochi - Qty: 1
+Halo-Halo - Qty: 1
+Fried Chicken - Qty: 1
+Gulaman - Qty: 1
+Buttered Shrimp - Qty: 1
+Adobo - Qty: 1
+San Miguel Light - Qty: 1
+Lomi - Qty: 1
+Mountain Dew - Qty: 1
+A5 Wagyu Steak - Qty: 1
+Rice - Qty: 1
+Soju - Qty: 1
+Tiramisu - Qty: 1
+Kimchi - Qty: 1
+Fries - Qty: 1
+Mash Potatoes - Qty: 1
+Grape Fanta - Qty: 1
+Mango Shake - Qty: 1
+Bulalo - Qty: 1
+Steam Dumplings - Qty: 1
+Tteokbokki - Qty: 1
+Tea - Qty: 1
+Ratatouille - Qty: 1
+Mixed Fruits - Qty: 1
+Bistek - Qty: 1
+Ginataang Halo-Halo - Qty: 1
+Chicken Mami - Qty: 1
+Corn Chips - Qty: 1
+Bottled Water - Qty: 1
+Chopsuey - Qty: 1
+California Maki - Qty: 1
+Buttered Scallops - Qty: 1
+Corn and Carrots - Qty: 1
+Brownies - Qty: 1
+Total: ₱5496.00
